@@ -6790,11 +6790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Logica\\Logica.csproj",
+      "projectUniqueName": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Logica\\Logica.csproj",
+      "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\sindy\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Logica\\obj\\",
+      "outputPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sindy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6811,11 +6811,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Datos\\Datos.csproj": {
-              "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Datos\\Datos.csproj"
+            "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Datos\\Datos.csproj": {
+              "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Datos\\Datos.csproj"
             },
-            "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Entidad\\Entidad.csproj": {
-              "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Entidad\\Entidad.csproj"
+            "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Entidad\\Entidad.csproj": {
+              "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Entidad\\Entidad.csproj"
             }
           }
         }

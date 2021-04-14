@@ -6771,11 +6771,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Datos\\Datos.csproj",
+      "projectUniqueName": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Datos\\Datos.csproj",
       "projectName": "Datos",
-      "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Datos\\Datos.csproj",
+      "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Datos\\Datos.csproj",
       "packagesPath": "C:\\Users\\sindy\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Datos\\obj\\",
+      "outputPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sindy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6792,8 +6792,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Entidad\\Entidad.csproj": {
-              "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Entidad\\Entidad.csproj"
+            "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Entidad\\Entidad.csproj": {
+              "projectPath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Entidad\\Entidad.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YssAq9+gBoVXPk5ZE7i7OXILPrSdnY+inpK3q0vcFGIWCqSQfoVEUTINDqj7LWcrY0zG1/9hl6nKDw6UpGMlNw==",
+  "dgSpecHash": "WTtL+iYm6xlEQ077D6Ef40O1/DN6ljpmq+FceaBI3J9VGnFJv0YzsPgfaDsTDwiyexkkZHPaKxo2+cWVSEORgQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Logica\\Logica.csproj",
+  "projectFilePath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sindy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sindy\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",

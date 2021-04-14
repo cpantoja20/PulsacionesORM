@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKC7D+B7PNzdDWxecFBwWGvEFporE4UOSrvyj2GVcNL3v2WuQt1sQwwVFbcAtOJejk9WWe2x+NcjFgGAOBlHzg==",
+  "dgSpecHash": "QOgMmlLjSUYBsS3IRTTvin8PWTEZQegqr12E8nOtQbCVdQFLAsmeVISqaCXriLE5t0ud4yQH4sMlmvXdsLLVBA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Datos\\Datos.csproj",
+  "projectFilePath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\PulsacionesORM\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sindy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sindy\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",
