@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k15gLpAwx0Sl+NQCxafRnmxweZT8XL33OO8LUq8EUtGlmZqBXBeqBxCNLS3dnYBM0HbF9Jr401BpSCACtqME+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\UPC\\2021_1\\Web\\Proyectos\\Pulsaciones\\pulsacionesorm\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sindy\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

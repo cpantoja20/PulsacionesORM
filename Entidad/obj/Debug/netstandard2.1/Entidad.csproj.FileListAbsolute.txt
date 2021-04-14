@@ -1,0 +1,9 @@
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\bin\Debug\netstandard2.1\Entidad.deps.json
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\bin\Debug\netstandard2.1\Entidad.dll
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\bin\Debug\netstandard2.1\Entidad.pdb
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\obj\Debug\netstandard2.1\Entidad.csprojAssemblyReference.cache
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\obj\Debug\netstandard2.1\Entidad.AssemblyInfoInputs.cache
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\obj\Debug\netstandard2.1\Entidad.AssemblyInfo.cs
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\obj\Debug\netstandard2.1\Entidad.csproj.CoreCompileInputs.cache
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\obj\Debug\netstandard2.1\Entidad.dll
+D:\Documents\UPC\2021_1\Web\Proyectos\Pulsaciones\PulsacionesORM\Entidad\obj\Debug\netstandard2.1\Entidad.pdb
